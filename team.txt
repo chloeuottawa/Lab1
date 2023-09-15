@@ -1,5 +1,13 @@
 
+<<<<<<< HEAD
 Amelia Spacek
 
 Daniel
 
+=======
+Chloe
+
+Daniel
+
+
+>>>>>>> 71feb380aee76e8276c62c96bb5d692a4548b817
